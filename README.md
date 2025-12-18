@@ -3,7 +3,7 @@
 ### Sou Regine 😊
 
 <p align="left"> 
- 🎓 Formada em Sistema de Informação. Apaixonada por tecnologia e em constante evolução.
+ 🎓 Formada em Sistema de Informação. Encantada por tecnologia e em constante evolução.
   <br>
  💻 Estudando para conseguir entrar na carreira de <strong>desenvolvedora full-stack.</strong>
 </p>
