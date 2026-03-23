@@ -23,7 +23,7 @@ SQL Server
 HTML • CSS
 
 🛠️ Ferramentas <br>
-Git • GitHub • VS Code
+Git • GitHub
 </p> <br> <br>
 
 ## 🚀 Projetos em destaque
