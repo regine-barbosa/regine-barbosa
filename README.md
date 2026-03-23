@@ -14,7 +14,7 @@ Atualmente construindo projetos para fortalecer minha base em **Programação Or
 ## 🧠 Tecnologias em aprendizado
 
 💻 Linguagens <br>
-Java • Python
+Java
 
 🗄️ Banco de dados <br>
 SQL Server
