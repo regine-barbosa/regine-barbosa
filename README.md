@@ -31,7 +31,8 @@ Git • GitHub
 🧮 **Calculadora em Java**  
 Projeto de terminal para realizar operações matemáticas básicas utilizando menu interativo.
 <br>
-📂 - [Calculadora em Java](https://github.com/regine-barbosa/calculadora-java)
+📂 - [Calculadora em Java](https://github.com/regine-barbosa/calculadora-java)<br>
+📂 - [Controle de estoque de Cosméticos & Lingerie](https://github.com/regine-barbosa/controle-estoque-cosmeticos)<br>
 
 </p> <br> <br>
 
