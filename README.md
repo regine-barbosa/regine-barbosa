@@ -16,9 +16,9 @@ Meu objetivo é evoluir continuamente como desenvolvedora e construir uma base s
 ### 💻 Linguagens
 
 * Java
-* SQL
+<!--* SQL
 * HTML
-* CSS
+* CSS-->
 
 ### 🗄️ Banco de dados
 
